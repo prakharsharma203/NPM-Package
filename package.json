@@ -1,0 +1,32 @@
+{
+  "name": "array-problem-solver",
+  "version": "1.0.0",
+  "description": "A utility library providing various array operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "utility",
+    "sum",
+    "remove",
+    "duplicates",
+    "filter",
+    "even",
+    "number",
+    "filter",
+    "odd",
+    "number",
+    "find",
+    "max",
+    "fund",
+    "min",
+    "reverse",
+    "array",
+    "HOF",
+    "JS"
+  ],
+  "author": "Prakhar Sharma",
+  "license": "ISC"
+}
